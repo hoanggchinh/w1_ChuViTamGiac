@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.Write("b: "); b = int.Parse(Console.ReadLine());
             Console.Write("c: "); c = int.Parse(Console.ReadLine());
             int p = a + b + c;
-            //?
+            //?   jikbiuhh9uhh80h98
             Console.WriteLine("p = {0} + {1} + {2} = {3}", a, b, c, p);
 
         }
